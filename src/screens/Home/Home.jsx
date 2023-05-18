@@ -66,7 +66,7 @@ const Home = () => {
     };
   }, []);
 
-  const GOOGLE_MAPS_APIKEY = "AIzaSyBqXPoD7q3vpxLtnMpclh4u0GLXcUjmlvw";
+  const GOOGLE_MAPS_APIKEY = "";
   const origin = { latitude: 37.3318456, longitude: -122.0296002 };
   const destination = { latitude: 37.771707, longitude: -122.4053769 };
 
